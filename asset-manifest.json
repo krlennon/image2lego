@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/image2lego/static/css/main.6897bdac.chunk.css",
-    "main.js": "/image2lego/static/js/main.eb682892.chunk.js",
-    "main.js.map": "/image2lego/static/js/main.eb682892.chunk.js.map",
-    "runtime-main.js": "/image2lego/static/js/runtime-main.07c80826.js",
-    "runtime-main.js.map": "/image2lego/static/js/runtime-main.07c80826.js.map",
+    "main.js": "/image2lego/static/js/main.a0492b3d.chunk.js",
+    "main.js.map": "/image2lego/static/js/main.a0492b3d.chunk.js.map",
+    "runtime-main.js": "/image2lego/static/js/runtime-main.02586aeb.js",
+    "runtime-main.js.map": "/image2lego/static/js/runtime-main.02586aeb.js.map",
     "static/css/2.ccb2ad39.chunk.css": "/image2lego/static/css/2.ccb2ad39.chunk.css",
-    "static/js/2.73dd4a36.chunk.js": "/image2lego/static/js/2.73dd4a36.chunk.js",
-    "static/js/2.73dd4a36.chunk.js.map": "/image2lego/static/js/2.73dd4a36.chunk.js.map",
-    "static/js/3.e16c30c9.chunk.js": "/image2lego/static/js/3.e16c30c9.chunk.js",
-    "static/js/3.e16c30c9.chunk.js.map": "/image2lego/static/js/3.e16c30c9.chunk.js.map",
+    "static/js/2.24fbfbf9.chunk.js": "/image2lego/static/js/2.24fbfbf9.chunk.js",
+    "static/js/2.24fbfbf9.chunk.js.map": "/image2lego/static/js/2.24fbfbf9.chunk.js.map",
+    "static/js/3.1f30b7e4.chunk.js": "/image2lego/static/js/3.1f30b7e4.chunk.js",
+    "static/js/3.1f30b7e4.chunk.js.map": "/image2lego/static/js/3.1f30b7e4.chunk.js.map",
     "index.html": "/image2lego/index.html",
     "static/css/2.ccb2ad39.chunk.css.map": "/image2lego/static/css/2.ccb2ad39.chunk.css.map",
     "static/css/main.6897bdac.chunk.css.map": "/image2lego/static/css/main.6897bdac.chunk.css.map",
-    "static/js/2.73dd4a36.chunk.js.LICENSE.txt": "/image2lego/static/js/2.73dd4a36.chunk.js.LICENSE.txt",
+    "static/js/2.24fbfbf9.chunk.js.LICENSE.txt": "/image2lego/static/js/2.24fbfbf9.chunk.js.LICENSE.txt",
     "static/media/chair_example.png": "/image2lego/static/media/chair_example.8a0339d9.png",
     "static/media/cp_build.png": "/image2lego/static/media/cp_build.c645f6ee.png",
     "static/media/cp_legov.png": "/image2lego/static/media/cp_legov.c10ae29b.png",
@@ -27,10 +27,10 @@
     "static/media/splash.png": "/image2lego/static/media/splash.0ec96729.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.07c80826.js",
+    "static/js/runtime-main.02586aeb.js",
     "static/css/2.ccb2ad39.chunk.css",
-    "static/js/2.73dd4a36.chunk.js",
+    "static/js/2.24fbfbf9.chunk.js",
     "static/css/main.6897bdac.chunk.css",
-    "static/js/main.eb682892.chunk.js"
+    "static/js/main.a0492b3d.chunk.js"
   ]
 }
