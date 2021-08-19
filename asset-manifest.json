@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/image2lego/static/css/main.6897bdac.chunk.css",
-    "main.js": "/image2lego/static/js/main.a0492b3d.chunk.js",
-    "main.js.map": "/image2lego/static/js/main.a0492b3d.chunk.js.map",
+    "main.js": "/image2lego/static/js/main.9061229d.chunk.js",
+    "main.js.map": "/image2lego/static/js/main.9061229d.chunk.js.map",
     "runtime-main.js": "/image2lego/static/js/runtime-main.02586aeb.js",
     "runtime-main.js.map": "/image2lego/static/js/runtime-main.02586aeb.js.map",
     "static/css/2.ccb2ad39.chunk.css": "/image2lego/static/css/2.ccb2ad39.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.6897bdac.chunk.css.map": "/image2lego/static/css/main.6897bdac.chunk.css.map",
     "static/js/2.24fbfbf9.chunk.js.LICENSE.txt": "/image2lego/static/js/2.24fbfbf9.chunk.js.LICENSE.txt",
     "static/media/chair_example.png": "/image2lego/static/media/chair_example.8a0339d9.png",
-    "static/media/cp_build.png": "/image2lego/static/media/cp_build.c645f6ee.png",
+    "static/media/cp_build.png": "/image2lego/static/media/cp_build.99eb621f.png",
     "static/media/cp_legov.png": "/image2lego/static/media/cp_legov.c10ae29b.png",
     "static/media/dalle_example.png": "/image2lego/static/media/dalle_example.b739e996.png",
     "static/media/full_architecture.png": "/image2lego/static/media/full_architecture.08815d83.png",
@@ -31,6 +31,6 @@
     "static/css/2.ccb2ad39.chunk.css",
     "static/js/2.24fbfbf9.chunk.js",
     "static/css/main.6897bdac.chunk.css",
-    "static/js/main.a0492b3d.chunk.js"
+    "static/js/main.9061229d.chunk.js"
   ]
 }
