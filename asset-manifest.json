@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/image2lego/static/css/main.6897bdac.chunk.css",
-    "main.js": "/image2lego/static/js/main.9061229d.chunk.js",
-    "main.js.map": "/image2lego/static/js/main.9061229d.chunk.js.map",
+    "main.js": "/image2lego/static/js/main.b9694e6d.chunk.js",
+    "main.js.map": "/image2lego/static/js/main.b9694e6d.chunk.js.map",
     "runtime-main.js": "/image2lego/static/js/runtime-main.02586aeb.js",
     "runtime-main.js.map": "/image2lego/static/js/runtime-main.02586aeb.js.map",
     "static/css/2.ccb2ad39.chunk.css": "/image2lego/static/css/2.ccb2ad39.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.ccb2ad39.chunk.css",
     "static/js/2.24fbfbf9.chunk.js",
     "static/css/main.6897bdac.chunk.css",
-    "static/js/main.9061229d.chunk.js"
+    "static/js/main.b9694e6d.chunk.js"
   ]
 }
